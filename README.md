@@ -21,3 +21,10 @@
 | NYC Restaurant Grades |  NYC Restaurant Inspection Results data (letter ratings for restaurants) | [Try it!](http://nyc-restaurant-grades.com/) | [Docs](https://github.com/bswinnerton/nyc-restaurant-grades)
 | PokeAPI | Pokémon Data API | [Try it!](https://pokeapi-graphiql.herokuapp.com/) | [Docs](http://pokeapi.co/about/)
 | SWAPI | Star Wars API	| [Try it!](http://graphql-swapi.parseapp.com/) | [Repo](https://github.com/graphql/swapi-graphql)
+
+## Demonstration-only APIs
+
+| API | Description | Graph*i*QL | Docs/Repo 
+| --- | ----------- | :--------: | :-: |
+| MongoDb TODO-List | TODO List using GraphQL and MongoDb	| [Try it!](https://todo-mongo-graphql-server.herokuapp.com/) | [Docs](https://www.compose.com/articles/using-graphql-with-mongodb/)<br>[Repo](https://github.com/igorlima/todo-mongo-graphql-server)
+
