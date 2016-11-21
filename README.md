@@ -11,6 +11,7 @@
 | GitHub | Web-based Git repository hosting service | [Try it!](https://developer.github.com/early-access/graphql/explorer/) | [Docs](https://developer.github.com/early-access/graphql/explorer/)
 | HIVDB | A curated database to represent, store and analyze HIV drug resistance data | [Try it!](https://hivdb.stanford.edu/page/graphiql/) | [Docs](https://hivdb.stanford.edu/page/webservice/)
 | HSL | Public transport administration in the Helsinki Metropolitan Area, Finland | [Try it!](http://dev.hsl.fi/graphql/console/) | [Docs](http://dev.hsl.fi/)
+| SuperChargers | Locations of Tesla Stores, Superchargers, Destination Chargers and Service centers | [Try it!](https://www.superchargers.io/graphiql) | [Docs](https://www.superchargers.io/faq)<br>[Repo](https://github.com/wattapp/superchargers)
 
 ## Unofficial API proxies
 
