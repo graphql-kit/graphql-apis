@@ -13,6 +13,13 @@
 | HSL | Public transport administration in the Helsinki Metropolitan Area, Finland | [Try it!](http://dev.hsl.fi/graphql/console/) | [Docs](http://dev.hsl.fi/)
 | SuperChargers | Locations of Tesla Stores, Superchargers, Destination Chargers and Service centers | [Try it!](https://www.superchargers.io/graphiql) | [Docs](https://www.superchargers.io/faq)<br>[Repo](https://github.com/wattapp/superchargers)
 
+## Backend-as-a-Service providers
+
+| API | Description | Product | Docs/Repo 
+| --- | ----------- | :--------: | :-: |
+| Graphcool | Flexible BaaS platform combining GraphQL + AWS Lambda | [Try it!](https://console.graph.cool/) | [Docs](https://graph.cool/docs) 
+| Reindex | Instant GraphQL Backend for Your React Apps | [Try it!](https://www.reindex.io/) | [Docs](https://www.reindex.io/docs/)
+
 ## Unofficial API proxies
 
 | API | Description | Graph*i*QL | Docs/Repo 
