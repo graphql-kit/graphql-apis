@@ -27,4 +27,5 @@
 | API | Description | Graph*i*QL | Docs/Repo 
 | --- | ----------- | :--------: | :-: |
 | MongoDb TODO-List | TODO List using GraphQL and MongoDb	| [Try it!](https://todo-mongo-graphql-server.herokuapp.com/) | [Docs](https://www.compose.com/articles/using-graphql-with-mongodb/)<br>[Repo](https://github.com/igorlima/todo-mongo-graphql-server)
+| Three.js demo | Declare a Three.js program with GraphQL | [Try it!](https://jwerle.github.io/three.graphql/) | [Repo](https://github.com/jwerle/three.graphql)
 
