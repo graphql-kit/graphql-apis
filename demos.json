@@ -1,0 +1,122 @@
+[
+  {
+    "url": "https://graphql-pokemon.now.sh",
+    "info": {
+      "title": "GraphQL Pokémon",
+      "description": "Get information of a Pokémon with GraphQL!",
+      "logo": {
+        "url": "https://github.com/lucasbento/graphql-pokemon/raw/master/content/logo.png"
+      }
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://graphql-pokemon.now.sh"
+      },
+      {
+        "description": "Repo",
+        "url": "https://github.com/lucasbento/graphql-pokemon"
+      }
+    ]
+  },
+
+  {
+    "url": "https://react-relay-pokemon.now.sh",
+    "info": {
+      "title": "GraphQL Pokémon Relay",
+      "description": "Get information of a Pokémon with GraphQL!",
+      "logo": {
+        "url": "https://github.com/lucasbento/react-relay-pokemon/raw/master/content/logo.png"
+      }
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://react-relay-pokemon.now.sh"
+      },
+      {
+        "description": "Repo",
+        "url": "https://github.com/lucasbento/react-relay-pokemon"
+      }
+    ]
+  },
+
+  {
+    "url": "https://graphql-compose.herokuapp.com/northwind",
+    "info": {
+      "title": "MongoDB Northwind demo",
+      "description": "Demo App build on top of graphql-compose and mongoose"
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://graphql-compose.herokuapp.com/northwind/"
+      },
+      {
+        "description": "Repo",
+        "url": "https://github.com/nodkz/graphql-compose"
+      }
+    ]
+  },
+  {
+    "url": "https://todo-mongo-graphql-server.herokuapp.com",
+    "info": {
+      "title": "MongoDB TODO-List",
+      "description": "TODO List using GraphQL and MongoDb"
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://todo-mongo-graphql-server.herokuapp.com/"
+      },
+      {
+        "description": "Docs",
+        "url": "https://www.compose.com/articles/using-graphql-with-mongodb/"
+      },
+      {
+        "description": "Repo",
+        "url": "https://github.com/igorlima/todo-mongo-graphql-server"
+      }
+    ]
+  },
+
+  {
+    "url": "https://spotify-graphql-server.herokuapp.com/graphql",
+    "info": {
+      "title": "Spotify GraphQL Server",
+      "description": "This demonstrates how to build a GraphQL server which fetches data from an external API (Spotify)"
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://spotify-graphql-server.herokuapp.com/graphql"
+      },
+      {
+        "description": "Docs",
+        "url": "https://blog.codecentric.de/en/2017/01/lets-build-spotify-graphql-server"
+      },
+      {
+        "description": "Repo",
+        "url": "https://github.com/lowsky/spotify-graphql-server"
+      }
+    ]
+  },
+
+  {
+    "url": "https://jwerle.github.io/three.graphql",
+    "info": {
+      "title": "Three.js demo",
+      "description": "Declare a Three.js program with GraphQL"
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://jwerle.github.io/three.graphql/"
+      },
+      {
+        "description": "Repo",
+        "url": "https://github.com/jwerle/three.graphql"
+      }
+    ]
+  }
+]

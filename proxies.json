@@ -1,0 +1,68 @@
+[
+  {
+    "url": "https://www.graphqlhub.com/graphql",
+    "info": {
+      "title": "GraphiQL Hub",
+      "description": "GraphQL Hub",
+      "logo": {
+        "url": "https://www.graphqlhub.com/images/graphqlhub-logo.png"
+      }
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://www.graphqlhub.com/playground"
+      },
+      {
+        "description": "Docs",
+        "url": "https://www.graphqlhub.com/"
+      },
+      {
+        "description": "Repo",
+        "url": "https://github.com/clayallsopp/graphqlhub"
+      }
+    ]
+  },
+
+  {
+    "url": "https://pokeapi-graphiql.herokuapp.com/",
+    "info": {
+      "title": "PokeAPI",
+      "description": "Pokémon Data API",
+      "logo": {
+        "url": "http://img08.deviantart.net/20bd/i/2010/231/7/1/pokeball_template_by_poke_lab.png"
+      }
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://pokeapi-graphiql.herokuapp.com/"
+      },
+      {
+        "description": "Docs",
+        "url": "https://github.com/patrickshaughnessy/PokeAPI-GraphQL"
+      }
+    ]
+  },
+
+  {
+    "url": "http://graphql-swapi.parseapp.com/",
+    "info": {
+      "title": "SWAPI",
+      "description": "Star Wars API",
+      "logo": {
+        "url": "https://www.programmableweb.com/sites/default/files/styles/facebook_scale_height_200/public/TheStarWarsAPI.png"
+      }
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "http://graphql-swapi.parseapp.com/"
+      },
+      {
+        "description": "Docs",
+        "url": "https://github.com/graphql/swapi-graphql"
+      }
+    ]
+  }
+]

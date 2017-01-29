@@ -1,0 +1,210 @@
+[
+  {
+    "url": "https://graphql.brandfolder.com/graphql",
+    "info": {
+      "title": "Brandfolder",
+      "description": "Digital asset management platform",
+      "logo": {
+        "url": "http://static1.squarespace.com/static/575b2a042b8dde1b3489f9df/t/579a4575e6f2e1648e660ef4/1476912636734/%3Fformat=1500w",
+        "backgroundColor": "#252c2f"
+      }
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://graphql.brandfolder.com/"
+      },
+      {
+        "description": "Docs",
+        "url": "https://github.com/brandfolder/graphqlify"
+      }
+    ]
+  },
+
+  {
+    "url": "https://graphql.buildkite.com/v1",
+    "info": {
+      "title": "Buildkite",
+      "description": "Continuous integration and deployments",
+      "logo": {
+        "url": "https://avatars1.githubusercontent.com/oa/46194?v=3&u=b9d8fd94744e21ea26a7302cab5931d9cb25e897&s=800"
+      }
+    },
+    "security": [
+      {
+        "title": "API Key",
+        "description": "",
+        "type": "apiKey",
+        "prefix": "Bearer ",
+        "name": "Authorization",
+        "in": "header"
+      }
+    ],
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://graphql.buildkite.com/"
+      },
+      {
+        "description": "Docs",
+        "url": "https://building.buildkite.com/tutorial-getting-started-with-graphql-queries-and-mutations-11211dfe5d64#.7uhjusw1q"
+      }
+    ]
+  },
+
+  {
+    "url": "https://portal.ehri-project.eu/api/graphql",
+    "info": {
+      "title": "EHRI",
+      "description": "Holocaust-related archival materials",
+      "logo": {
+        "url": "https://www.ehri-project.eu/sites/all/themes/zenehri/images/logo.png"
+      }
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://portal.ehri-project.eu/api/graphql/ui"
+      },
+      {
+        "description": "Docs",
+        "url": "https://portal.ehri-project.eu/api/graphql"
+      }
+    ]
+  },
+
+  {
+    "url": "http://gdom.graphene-python.org/graphql",
+    "info": {
+      "title": "Gdom",
+      "description": "DOM Traversing and Scraping using GraphQL"
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "http://gdom.graphene-python.org/graphql"
+      },
+      {
+        "description": "Repo",
+        "url": "https://github.com/syrusakbary/gdom"
+      }
+    ]
+  },
+
+  {
+    "url": "https://api.github.com/graphql",
+    "headers": {
+      "User-Agent": "Agent"
+    },
+    "security": [
+      {
+        "title": "API Key",
+        "description": "",
+        "type": "apiKey",
+        "prefix": "Bearer ",
+        "name": "Authorization",
+        "in": "header"
+      }
+    ],
+    "info": {
+      "title": "GitHub",
+      "description": "Web-based Git repository hosting service",
+      "logo": {
+        "url": "https://api.apis.guru/v2/cache/logo/http_assets-cdn.github.com_images_modules_logos_page_GitHub-Mark.png"
+      }
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://developer.github.com/early-access/graphql/explorer/"
+      },
+      {
+        "description": "Docs",
+        "url": "https://developer.github.com/early-access/graphql/"
+      }
+    ]
+  },
+
+  {
+    "url": "https://hivdb.stanford.edu/graphql",
+    "info": {
+      "title": "HIVDB",
+      "description": "A curated database to represent, store and analyze HIV drug resistance data"
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://hivdb.stanford.edu/page/graphiql/"
+      },
+      {
+        "description": "Docs",
+        "url": "https://hivdb.stanford.edu/page/webservice/"
+      }
+    ]
+  },
+
+  {
+    "url": "https://api.digitransit.fi/routing/v1/routers/finland/index/graphql",
+    "info": {
+      "title": "HSL",
+      "description": "Public transport administration in the Helsinki Metropolitan Area, Finland",
+      "logo": {
+        "url": "http://dev.hsl.fi/logo.png",
+        "backgroundColor": "#007ac9"
+      }
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "http://dev.hsl.fi/graphql/console/"
+      },
+      {
+        "description": "Docs",
+        "url": "http://dev.hsl.fi/"
+      }
+    ]
+  },
+
+  {
+    "url": "https://api.melody.sh/graphql",
+    "info": {
+      "title": "melodyRepo",
+      "description": "Fast and reliable dependency manager for Go"
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://melody.sh/play/"
+      },
+      {
+        "description": "Docs",
+        "url": "https://melody.sh/docs/api"
+      }
+    ]
+  },
+
+  {
+    "url": "https://www.superchargers.io/graphql",
+    "info": {
+      "title": "Superchargers",
+      "description": "Locations of Tesla Stores, Superchargers, Destination Chargers and Service centers",
+      "logo": {
+        "url": "https://www.superchargers.io/assets/logo.png"
+      }
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://www.superchargers.io/graphiql"
+      },
+      {
+        "description": "Docs",
+        "url": "https://www.superchargers.io/faq"
+      },
+      {
+        "description": "Repo",
+        "url": "https://github.com/wattapp/superchargers"
+      }
+    ]
+  }
+]
