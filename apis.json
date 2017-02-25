@@ -138,10 +138,10 @@
     ]
   },
   {
-    "url": "https://api.digitransit.fi/routing/v1/routers/finland/index/graphql",
+    "url": "https://api.digitransit.fi/routing/v1/routers/hsl/index/graphql",
     "info": {
-      "title": "HSL",
-      "description": "Public transport administration in the Helsinki Metropolitan Area, Finland",
+      "title": "Digitransit HSL",
+      "description": "Transit routes and realtime schedules from Helsinki Regional Transport Authority, Finland",
       "logo": {
         "url": "http://dev.hsl.fi/logo.png",
         "backgroundColor": "#007ac9"
@@ -154,7 +154,11 @@
       },
       {
         "description": "Docs",
-        "url": "http://dev.hsl.fi/"
+        "url": "https://digitransit.fi/en/developers/services-and-apis/1-routing-api/"
+      },
+      {
+        "description": "Repo",
+        "url": "https://github.com/HSLdevcom/OpenTripPlanner"
       }
     ]
   },
