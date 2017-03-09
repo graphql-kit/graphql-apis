@@ -17,6 +17,7 @@ If you are interested in GraphQL in general, check out [awesome-graphql](https:/
 | Digitransit HSL | Transit routes and realtime schedules from Helsinki Regional Transport Authority, Finland | [Try it!](http://dev.hsl.fi/graphql/console/) | [Docs](https://digitransit.fi/en/developers/services-and-apis/1-routing-api/)
 | melodyRepo | Fast and reliable dependency manager for Go | [Try it!](https://melody.sh/play/) | [Docs](https://melody.sh/docs/api)
 | SuperChargers | Locations of Tesla Stores, Superchargers, Destination Chargers and Service centers | [Try it!](https://www.superchargers.io/graphiql) | [Docs](https://www.superchargers.io/faq)<br>[Repo](https://github.com/wattapp/superchargers)
+| Unigraph | The largest, open Knowledge Graph | [Try it!](http://u01.unigraph.rocks/) | [Docs](https://github.com/unigraph/docs/wiki)
 
 ## Unofficial API proxies
 
