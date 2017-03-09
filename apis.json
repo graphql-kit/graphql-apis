@@ -121,6 +121,30 @@
     ]
   },
   {
+    "url": "https://us-west-2.api.scaphold.io/graphql/slackr-api",
+    "info": {
+      "title": "GraphQL World",
+      "description": "The fastest growing community of GraphQL developers",
+      "logo": {
+        "url": "https://assets.scaphold.io/graphql-world/gatw-icon-margin.png"
+      }
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://us-west-2.api.scaphold.io/graphql/graphql-world"
+      },
+      {
+        "description": "Docs",
+        "url": "https://graphql-docs.com/docs/?graphqlUrl=https://us-west-2.api.scaphold.io/graphql/graphql-world"
+      },
+      {
+        "description": "Site",
+        "url": "https://graphql-world.com/"
+      }
+    ]
+  },
+  {
     "url": "https://hivdb.stanford.edu/graphql",
     "info": {
       "title": "HIVDB",
