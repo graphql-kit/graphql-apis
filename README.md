@@ -17,6 +17,7 @@ If you are interested in GraphQL in general, check out [awesome-graphql](https:/
 | HIVDB | A curated database to represent, store and analyze HIV drug resistance data | [Try it!](https://hivdb.stanford.edu/page/graphiql/) | [Docs](https://hivdb.stanford.edu/page/webservice/)
 | Digitransit HSL | Transit routes and realtime schedules from Helsinki Regional Transport Authority, Finland | [Try it!](http://dev.hsl.fi/graphql/console/) | [Docs](https://digitransit.fi/en/developers/services-and-apis/1-routing-api/)
 | melodyRepo | Fast and reliable dependency manager for Go | [Try it!](https://melody.sh/play/) | [Docs](https://melody.sh/docs/api)
+| Shopify Storefront | The Storefront API gives you full creative control to build customized purchasing experiences for your customers. | [Try it!](https://help.shopify.com/api/storefront-api/graphql-explorer) | [Docs](https://help.shopify.com/api/storefront-api)<br>[Examples](https://github.com/Shopify/storefront-api-examples)
 | SuperChargers | Locations of Tesla Stores, Superchargers, Destination Chargers and Service centers | [Try it!](https://www.superchargers.io/graphiql) | [Docs](https://www.superchargers.io/faq)<br>[Repo](https://github.com/wattapp/superchargers)
 
 ## Unofficial API proxies
