@@ -20,6 +20,13 @@ If you are interested in GraphQL in general, check out [awesome-graphql](https:/
 | Shopify Storefront | The Storefront API gives you full creative control to build customized purchasing experiences for your customers. | [Try it!](https://help.shopify.com/api/storefront-api/graphql-explorer) | [Docs](https://help.shopify.com/api/storefront-api)<br>[Examples](https://github.com/Shopify/storefront-api-examples)
 | SuperChargers | Locations of Tesla Stores, Superchargers, Destination Chargers and Service centers | [Try it!](https://www.superchargers.io/graphiql) | [Docs](https://www.superchargers.io/faq)<br>[Repo](https://github.com/wattapp/superchargers)
 
+## Backend-as-a-Service providers
+
+| API | Description | Product | Docs/Repo 
+| --- | ----------- | :--------: | :-: |
+| Graphcool | Flexible BaaS platform combining GraphQL + AWS Lambda | [Try it!](https://console.graph.cool/) | [Docs](https://graph.cool/docs) 
+| Reindex | Instant GraphQL Backend for Your React Apps | [Try it!](https://www.reindex.io/) | [Docs](https://www.reindex.io/docs/)
+
 ## Unofficial API proxies
 
 | API | Description | Graph*i*QL | Docs/Repo 
