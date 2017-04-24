@@ -19,6 +19,7 @@ If you are interested in GraphQL in general, check out [awesome-graphql](https:/
 | melodyRepo | Fast and reliable dependency manager for Go | [Try it!](https://melody.sh/play/) | [Docs](https://melody.sh/docs/api)
 | Shopify Storefront | The Storefront API gives you full creative control to build customized purchasing experiences for your customers. | [Try it!](https://help.shopify.com/api/storefront-api/graphql-explorer) | [Docs](https://help.shopify.com/api/storefront-api)<br>[Examples](https://github.com/Shopify/storefront-api-examples)
 | SuperChargers | Locations of Tesla Stores, Superchargers, Destination Chargers and Service centers | [Try it!](https://www.superchargers.io/graphiql) | [Docs](https://www.superchargers.io/faq)<br>[Repo](https://github.com/wattapp/superchargers)
+| Unigraph | The largest, open Knowledge Graph | [Try it!](http://u01.unigraph.rocks/) | [Docs](https://github.com/unigraph/docs/wiki)
 
 ## Unofficial API proxies
 
