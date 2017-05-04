@@ -226,5 +226,35 @@
         "url": "https://github.com/wattapp/superchargers"
       }
     ]
+  },
+  {
+    "url": "https://api.yelp.com/v3/graphql",
+    "info": {
+      "title": "Yelp",
+      "description": "User Reviews and Recommendations of Top Restaurants, Shopping, Nightlife, Entertainment, Services and More",
+      "logo": {
+        "url": "https://s3-media2.fl.yelpcdn.com/assets/srv0/styleguide/1ea40efd80f5/assets/img/brand_guidelines/yelp_fullcolor.png"
+      }
+    },
+    "security": [
+      {
+        "title": "API Key",
+        "description": "Same as for regular API",
+        "type": "apiKey",
+        "prefix": "Bearer ",
+        "name": "Authorization",
+        "in": "header"
+      }
+    ],
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://www.yelp.com/developers/graphiql"
+      },
+      {
+        "description": "Docs",
+        "url": "https://www.yelp.com/developers/graphql/guides/intro"
+      }
+    ]
   }
 ]
