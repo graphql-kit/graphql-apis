@@ -204,6 +204,30 @@
     ]
   },
   {
+    "url": "https://us-west-2.api.scaphold.io/graphql/slackr-api",
+    "info": {
+      "title": "Scaphold",
+      "description": "Real-time API to power Scaphold Slackr",
+      "logo": {
+        "url": "https://assets.scaphold.io/images/scaphold-logo.png"
+      }
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://us-west-2.api.scaphold.io/graphql/slackr-api"
+      },
+      {
+        "description": "Docs",
+        "url": "https://scaphold.io/docs/"
+      },
+      {
+        "description": "Repo",
+        "url": "https://github.com/scaphold-io/slackr-graphql-subscriptions-starter-kit"
+      }
+    ]
+  },
+  {
     "url": "https://www.superchargers.io/graphql",
     "info": {
       "title": "Superchargers",
