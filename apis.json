@@ -256,5 +256,21 @@
         "url": "https://www.yelp.com/developers/graphql/guides/intro"
       }
     ]
+  },
+  {
+    "url": "https://graphql-europe.org/graphql",
+    "info": {
+      "title": "GraphQL Europe",
+      "description": "Europe’s first GraphQL conference",
+      "logo": {
+        "url": "https://graphql-europe.org/assets/image/logo.svg"
+      }
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://graphql-europe.org/graphql"
+      }
+    ]
   }
 ]
