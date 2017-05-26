@@ -23,7 +23,6 @@
       }
     ]
   },
-
   {
     "url": "https://pokeapi-graphiql.herokuapp.com/",
     "info": {
@@ -44,7 +43,6 @@
       }
     ]
   },
-
   {
     "url": "http://graphql-swapi.parseapp.com/",
     "info": {
@@ -62,6 +60,30 @@
       {
         "description": "Docs",
         "url": "https://github.com/graphql/swapi-graphql"
+      }
+    ]
+  },
+  {
+    "url": "http://graphql-swapi.parseapp.com/",
+    "info": {
+      "title": "Spotify",
+      "description": "Spotify gives you instant access to millions of songs – from old favorites to the latest hits.",
+      "logo": {
+        "url": "https://www.programmableweb.com/sites/default/files/styles/facebook_scale_height_200/public/TheStarWarsAPI.png"
+      }
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "http://spotify.thefrench.house/graphql-console/"
+      },
+      {
+        "description": "Repo",
+        "url": "https://github.com/thefrenchhouse/spotify-graphql"
+      },
+      {
+        "description": "Examples",
+        "url": "https://github.com/thefrenchhouse/spotify-graphql-examples"
       }
     ]
   }

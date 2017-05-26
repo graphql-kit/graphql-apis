@@ -71,6 +71,39 @@
     ]
   },
   {
+    "url": "https://graphql-europe.org/graphql",
+    "info": {
+      "title": "GraphQL Europe",
+      "description": "Europe’s first GraphQL conference",
+      "logo": {
+        "url": "https://graphql-europe.org/assets/image/logo.svg"
+      }
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://graphql-europe.org/graphql"
+      }
+    ]
+  },
+  {
+    "url": "http://fake.graphql.guru/graphql",
+    "info": {
+      "title": "GraphQL Fake",
+      "description": "Fake is a tool for generating fake data using GraphQL queries.",
+      "logo": {
+        "url": "http://fake.graphql.guru/static/media/graphql-fake-light.78e7abf9.svg",
+        "backgroundColor": "#1f2b31"
+      }
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "http://fake.graphql.guru/"
+      }
+    ]
+  },
+  {
     "url": "http://gdom.graphene-python.org/graphql",
     "info": {
       "title": "Gdom",
@@ -204,6 +237,39 @@
     ]
   },
   {
+    "url": "https://graphql.myshopify.com/api/graphql.json",
+    "headers": {
+      "Content-Type": "application/graphql"
+    },
+    "security": [
+      {
+        "title": "API Key",
+        "description": "Storefront Access token",
+        "type": "apiKey",
+        "name": "X-Shopify-Storefront-Access-Token",
+        "in": "header"
+      }
+    ],
+    "info": {
+      "title": "Shopify Storefront",
+      "description": "The Storefront API gives you full creative control to build customized purchasing experiences for your customers."
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://help.shopify.com/api/storefront-api/graphql-explorer"
+      },
+      {
+        "description": "Docs",
+        "url": "https://help.shopify.com/api/storefront-api"
+      },
+      {
+        "description": "Examples",
+        "url": "https://github.com/Shopify/storefront-api-examples"
+      }
+    ]
+  },
+  {
     "url": "https://www.superchargers.io/graphql",
     "info": {
       "title": "Superchargers",
@@ -254,22 +320,6 @@
       {
         "description": "Docs",
         "url": "https://www.yelp.com/developers/graphql/guides/intro"
-      }
-    ]
-  },
-  {
-    "url": "https://graphql-europe.org/graphql",
-    "info": {
-      "title": "GraphQL Europe",
-      "description": "Europe’s first GraphQL conference",
-      "logo": {
-        "url": "https://graphql-europe.org/assets/image/logo.svg"
-      }
-    },
-    "externalDocs": [
-      {
-        "description": "GraphiQL",
-        "url": "https://graphql-europe.org/graphql"
       }
     ]
   }
