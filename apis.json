@@ -162,11 +162,11 @@
     "externalDocs": [
       {
         "description": "GraphiQL",
-        "url": "https://developer.github.com/early-access/graphql/explorer/"
+        "url": "https://developer.github.com/v4/explorer/"
       },
       {
         "description": "Docs",
-        "url": "https://developer.github.com/early-access/graphql/"
+        "url": "https://developer.github.com/v4/"
       }
     ]
   },
