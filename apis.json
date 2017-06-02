@@ -71,6 +71,23 @@
     ]
   },
   {
+    "url": "https://graphql.communitygraph.org/graphql/",
+    "info": {
+      "title": "GraphQL Community Graph",
+      "description": "This is an Graph Database full of activity of the GraphQL community, including Twitter, StackOverflow, GitHub, Meetups, Slack."
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "http://graphql.communitygraph.org/graphiql/"
+      },
+      {
+        "description": "Repo",
+        "url": "https://github.com/neo4j-graphql/graphql-community"
+      }
+    ]
+  },
+  {
     "url": "https://graphql-europe.org/graphql",
     "info": {
       "title": "GraphQL Europe",
