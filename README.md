@@ -32,6 +32,7 @@ If you are interested in GraphQL in general, check out [awesome-graphql](https:/
 | PokeAPI | Pokémon Data API | [Try it!](https://pokeapi-graphiql.herokuapp.com/) | [Repo](https://github.com/patrickshaughnessy/PokeAPI-GraphQL)
 | Spotify | Spotify gives you instant access to millions of songs – from old favorites to the latest hits. | [Try it!](http://spotify.thefrench.house/graphql-console/) | [Repo](https://github.com/thefrenchhouse/spotify-graphql)<br>[Examples](https://github.com/thefrenchhouse/spotify-graphql-examples)
 | SWAPI | Star Wars API	| [Try it!](http://graphql.org/swapi-graphql/) | [Repo](https://github.com/graphql/swapi-graphql)
+| Contentful | "CMS as a Service". Graph*i*QL demo allows to query a simple blog, but the library itself generates a schema automatically for any content model you store in Contentful. | [Try it!](https://cf-graphql-demo.now.sh/) | [Repo](https://github.com/contentful-labs/cf-graphql)
 
 ## Demonstration-only APIs
 
