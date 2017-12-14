@@ -339,5 +339,35 @@
         "url": "https://www.yelp.com/developers/graphql/guides/intro"
       }
     ]
+  },
+  {
+    "url": "http://api.deutschebahn.com/1bahnql/",
+    "info": {
+      "title": "Deutsche Bahn",
+      "description": "Infrastructure Data, like realtime facility status, stations, timetables and more",
+      "logo": {
+        "url": "https://raw.githubusercontent.com/dbsystel/1BahnQL/develop/logo.svg"
+      }
+    },
+    "security": [
+      {
+        "title": "API Key",
+        "description": "Subscripe to 1BahnQL in the developer portal",
+        "type": "apiKey",
+        "prefix": "Bearer ",
+        "name": "Authorization",
+        "in": "header"
+      }
+    ],
+    "externalDocs": [
+      {
+        "description": "Repo",
+        "url": "https://github.com/dbsystel/1BahnQL"
+      },
+      {
+        "description": "Try",
+        "url": "https://developer.deutschebahn.com/free1bahnql/graphql"
+      }
+    ]
   }
 ]
