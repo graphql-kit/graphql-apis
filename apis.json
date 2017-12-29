@@ -212,6 +212,27 @@
     ]
   },
   {
+    "url": "https://api.hollowverse.com/graphql",
+    "info": {
+      "title": "Hollowverse",
+      "description": "The religions and political views of the influentials."
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://api.hollowverse.com/playground"
+      },
+      {
+        "description": "Docs",
+        "url": "https://github.com/hollowverse/hollowverse/wiki/API-Development"
+      },
+      {
+        "description": "Repo",
+        "url": "https://github.com/hollowverse/api"
+      }
+    ]
+  },
+  {
     "url": "https://api.digitransit.fi/routing/v1/routers/hsl/index/graphql",
     "info": {
       "title": "Digitransit HSL",
