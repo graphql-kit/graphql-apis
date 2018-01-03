@@ -275,6 +275,23 @@
     ]
   },
   {
+    "url": "http://graphql-demo.azurewebsites.net/",
+    "info": {
+      "title": "Microsoft Graph (DEMO)",
+      "description": "Connect to the data that drives productivity – mail, calendar, contacts, documents, directory, devices, and more."
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://graphql-demo.azurewebsites.net/"
+      },
+      {
+        "description": "Repo",
+        "url": "https://github.com/microsoftgraph/graphql-demo"
+      }
+    ]
+  },
+  {
     "url": "https://graphql.myshopify.com/api/graphql.json",
     "headers": {
       "Content-Type": "application/graphql"
