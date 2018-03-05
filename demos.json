@@ -1,5 +1,22 @@
 [
   {
+    "url": "https://airbnb.now.sh",
+    "info": {
+      "title": "Airbnb Clone",
+      "description": "The foundation for an application similar to AirBnB."
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://airbnb.now.sh"
+      },
+      {
+        "description": "Repo",
+        "url": "https://github.com/graphcool/graphql-server-example"
+      }
+    ]
+  },
+  {
     "url": "https://graphql-pokemon.now.sh",
     "info": {
       "title": "GraphQL Pokémon",
