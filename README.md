@@ -22,6 +22,7 @@ If you are interested in GraphQL in general, check out [awesome-graphql](https:/
 | GraphQL World | The fastest growing community of GraphQL developers | [Try it!](https://us-west-2.api.scaphold.io/graphql/graphql-world) | [Docs](https://graphql-docs.com/docs/?graphqlUrl=https://us-west-2.api.scaphold.io/graphql/graphql-world)<br>[Site](https://graphql-world.com/)
 | HIVDB | A curated database to represent, store and analyze HIV drug resistance data | [Try it!](https://hivdb.stanford.edu/page/graphiql/) | [Docs](https://hivdb.stanford.edu/page/webservice/)
 | Hollowverse | The religions and political views of the influentials. | [Try it!](https://api.hollowverse.com/playground) | [Docs](https://github.com/hollowverse/hollowverse/wiki/API-Development)<br>[Repo](https://github.com/hollowverse/api)
+| Idobata | Dedicated chat for team development. | [Try it!](https://idobata.io/api) | |
 | Memair | Quantified self / extended mind platform | [Try it!](https://memair.com/graphiql) | [Docs](https://docs.memair.com)
 | melodyRepo | Fast and reliable dependency manager for Go | [Try it!](https://melody.sh/play/) | [Docs](https://melody.sh/docs/api)
 | Microsoft Graph (DEMO) | Connect to the data that drives productivity – mail, calendar, contacts, documents, directory, devices, and more. | [Try it!](https://graphql-demo.azurewebsites.net/) | [Repo](https://github.com/microsoftgraph/graphql-demo)
@@ -41,7 +42,7 @@ If you are interested in GraphQL in general, check out [awesome-graphql](https:/
 | PokeAPI | Pokémon Data API | [Try it!](https://pokeapi-graphiql.herokuapp.com/) | [Repo](https://github.com/patrickshaughnessy/PokeAPI-GraphQL)
 | Spotify | Spotify gives you instant access to millions of songs - from old favorites to the latest hits. | [Try it!](http://spotify.thefrench.house/graphql-console/) | [Repo](https://github.com/thefrenchhouse/spotify-graphql)<br>[Examples](https://github.com/thefrenchhouse/spotify-graphql-examples)
 | SWAPI | Star Wars API	| [Try it!](http://graphql.org/swapi-graphql/) | [Repo](https://github.com/graphql/swapi-graphql)
-| League of legends | Riot unofficial api that allow us to get summoner, matches and match info | |[Repo](https://github.com/jsparanoguy/riot-graphql-api) 
+| League of legends | Riot unofficial api that allow us to get summoner, matches and match info | |[Repo](https://github.com/jsparanoguy/riot-graphql-api)
 
 ## Demonstration-only APIs
 
