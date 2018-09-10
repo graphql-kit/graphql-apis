@@ -18,7 +18,6 @@ If you are interested in GraphQL in general, check out [awesome-graphql](https:/
 | GraphLoc  | Find a geolocation of an IP address including latitude, longitude, city, country, time zone and area code. Free to use, SSL supported | [Try it!](https://graphloc.com) | [Docs](https://www.graphloc.com)
 | GraphQL Community Graph | This is an Graph Database full of activity of the GraphQL community, including Twitter, StackOverflow, GitHub, Meetups, Slack. | [Try it!](http://graphql.communitygraph.org/graphiql/) | [Repo](https://github.com/neo4j-graphql/graphql-community)
 | GraphQL Europe | Europe's first GraphQL conference | [Try it!](https://graphql-europe.org/graphql) |
-| GraphQL Fake | Fake is a tool for generating fake data using GraphQL queries. | [Try it!](http://fake.graphql.guru) |
 | GraphQL World | The fastest growing community of GraphQL developers | [Try it!](https://us-west-2.api.scaphold.io/graphql/graphql-world) | [Docs](https://graphql-docs.com/docs/?graphqlUrl=https://us-west-2.api.scaphold.io/graphql/graphql-world)<br>[Site](https://graphql-world.com/)
 | HIVDB | A curated database to represent, store and analyze HIV drug resistance data | [Try it!](https://hivdb.stanford.edu/page/graphiql/) | [Docs](https://hivdb.stanford.edu/page/webservice/)
 | Hollowverse | The religions and political views of the influentials. | [Try it!](https://api.hollowverse.com/playground) | [Docs](https://github.com/hollowverse/hollowverse/wiki/API-Development)<br>[Repo](https://github.com/hollowverse/api)

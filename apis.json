@@ -104,23 +104,6 @@
     ]
   },
   {
-    "url": "http://fake.graphql.guru/graphql",
-    "info": {
-      "title": "GraphQL Fake",
-      "description": "Fake is a tool for generating fake data using GraphQL queries.",
-      "logo": {
-        "url": "http://fake.graphql.guru/static/media/graphql-fake-light.78e7abf9.svg",
-        "backgroundColor": "#1f2b31"
-      }
-    },
-    "externalDocs": [
-      {
-        "description": "GraphiQL",
-        "url": "http://fake.graphql.guru/"
-      }
-    ]
-  },
-  {
     "url": "http://gdom.graphene-python.org/graphql",
     "info": {
       "title": "Gdom",
