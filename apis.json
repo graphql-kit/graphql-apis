@@ -88,7 +88,7 @@
     ]
   },
   {
-    "url": "https://graphql-europe.org/graphql",
+    "url": "https://api.graphql-europe.org/",
     "info": {
       "title": "GraphQL Europe",
       "description": "Europe’s first GraphQL conference",
@@ -99,7 +99,7 @@
     "externalDocs": [
       {
         "description": "GraphiQL",
-        "url": "https://graphql-europe.org/graphql"
+        "url": "https://api.graphql-europe.org/"
       }
     ]
   },
@@ -150,30 +150,6 @@
       {
         "description": "Docs",
         "url": "https://developer.github.com/v4/"
-      }
-    ]
-  },
-  {
-    "url": "https://us-west-2.api.scaphold.io/graphql/slackr-api",
-    "info": {
-      "title": "GraphQL World",
-      "description": "The fastest growing community of GraphQL developers",
-      "logo": {
-        "url": "https://assets.scaphold.io/graphql-world/gatw-icon-margin.png"
-      }
-    },
-    "externalDocs": [
-      {
-        "description": "GraphiQL",
-        "url": "https://us-west-2.api.scaphold.io/graphql/graphql-world"
-      },
-      {
-        "description": "Docs",
-        "url": "https://graphql-docs.com/docs/?graphqlUrl=https://us-west-2.api.scaphold.io/graphql/graphql-world"
-      },
-      {
-        "description": "Site",
-        "url": "https://graphql-world.com/"
       }
     ]
   },
@@ -304,30 +280,6 @@
       {
         "description": "Examples",
         "url": "https://github.com/Shopify/storefront-api-examples"
-      }
-    ]
-  },
-  {
-    "url": "https://www.superchargers.io/graphql",
-    "info": {
-      "title": "Superchargers",
-      "description": "Locations of Tesla Stores, Superchargers, Destination Chargers and Service centers",
-      "logo": {
-        "url": "https://www.superchargers.io/assets/logo.png"
-      }
-    },
-    "externalDocs": [
-      {
-        "description": "GraphiQL",
-        "url": "https://www.superchargers.io/graphiql"
-      },
-      {
-        "description": "Docs",
-        "url": "https://www.superchargers.io/faq"
-      },
-      {
-        "description": "Repo",
-        "url": "https://github.com/wattapp/superchargers"
       }
     ]
   },
