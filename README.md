@@ -9,6 +9,7 @@ If you are interested in GraphQL in general, check out [awesome-graphql](https:/
 | --- | ----------- | :--------: | :-: |
 | Brandfolder | Digital asset management platform | [Try it!](https://graphql.brandfolder.com/) | [Repo](https://github.com/brandfolder/graphqlify)
 | Buildkite | Continuous integration and deployments | [Try it!](https://graphql.buildkite.com/) | [Docs](https://building.buildkite.com/tutorial-getting-started-with-graphql-queries-and-mutations-11211dfe5d64#.7uhjusw1q)
+| Catalysis Hub | Chemical surface reaction energies and structures | [Try it!](http://api.catalysis-hub.org/graphql) | [Repo](https://github.com/SUNCAT-Center/CatalysisHubBackend)<br> [Docs](http://docs.catalysis-hub.org/en/latest/tutorials/index.html#graphql)
 | Deutsche Bahn | Infrastructure Data, like realtime facility status, stations, timetables and more |[Try it!](https://developer.deutschebahn.com/free1bahnql/graphql) | [Docs](https://developer.deutschebahn.com/store/apis/info?name=1BahnQL&version=v1&provider=DBOpenData)<br>[Repo](https://github.com/dbsystel/1BahnQL)
 | Digitransit HSL | Transit routes and realtime schedules from Helsinki Regional Transport Authority, Finland | [Try it!](http://dev.hsl.fi/graphql/console/) | [Docs](https://digitransit.fi/en/developers/services-and-apis/1-routing-api/)
 | EHRI | Holocaust-related archival materials | [Try it!](https://portal.ehri-project.eu/api/graphql/ui) | [Docs](https://portal.ehri-project.eu/api/graphql)
