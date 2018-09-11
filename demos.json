@@ -95,30 +95,6 @@
     ]
   },
   {
-    "url": "https://us-west-2.api.scaphold.io/graphql/slackr-api",
-    "info": {
-      "title": "Scaphold",
-      "description": "Real-time API to power Scaphold Slackr",
-      "logo": {
-        "url": "https://assets.scaphold.io/images/scaphold-logo.png"
-      }
-    },
-    "externalDocs": [
-      {
-        "description": "GraphiQL",
-        "url": "https://us-west-2.api.scaphold.io/graphql/slackr-api"
-      },
-      {
-        "description": "Docs",
-        "url": "https://scaphold.io/blog/2016/11/09/build-realtime-apps-with-subs.html"
-      },
-      {
-        "description": "Repo",
-        "url": "https://github.com/scaphold-io/slackr-graphql-subscriptions-starter-kit"
-      }
-    ]
-  },
-  {
     "url": "https://spotify-graphql-server.herokuapp.com/graphql",
     "info": {
       "title": "Spotify GraphQL Server",
