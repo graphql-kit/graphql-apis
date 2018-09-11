@@ -9,6 +9,7 @@ If you are interested in GraphQL in general, check out [awesome-graphql](https:/
 | --- | ----------- | :--------: | :-: |
 | Brandfolder | Digital asset management platform | [Try it!](https://graphql.brandfolder.com/) | [Repo](https://github.com/brandfolder/graphqlify)
 | Buildkite | Continuous integration and deployments | [Try it!](https://graphql.buildkite.com/) | [Docs](https://building.buildkite.com/tutorial-getting-started-with-graphql-queries-and-mutations-11211dfe5d64#.7uhjusw1q)
+| Catalysis Hub | Chemical surface reaction energies and structures | [Try it!](http://api.catalysis-hub.org/graphql) | [Repo](https://github.com/SUNCAT-Center/CatalysisHubBackend)<br> [Docs](http://docs.catalysis-hub.org/en/latest/tutorials/index.html#graphql)
 | Deutsche Bahn | Infrastructure Data, like realtime facility status, stations, timetables and more | [Try it!](https://bahnql.herokuapp.com/graphql) | [Repo](https://github.com/dbsystel/1BahnQL)
 | Digitransit HSL | Transit routes and realtime schedules from Helsinki Regional Transport Authority, Finland | [Try it!](https://api.digitransit.fi/graphiql/finland) | [Docs](https://digitransit.fi/en/developers/apis/1-routing-api/1-graphiql/)
 | EHRI | Holocaust-related archival materials | [Try it!](https://portal.ehri-project.eu/api/graphql/ui) | [Docs](https://portal.ehri-project.eu/api/graphql)

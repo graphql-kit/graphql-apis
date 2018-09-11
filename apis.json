@@ -314,6 +314,30 @@
     ]
   },
   {
+    "url": "http://api.catalysis-hub.org/graphql",
+    "info": {
+      "title": "Catalysis-Hub.Org",
+      "description": "http://api.catalysis-hub.org/graphql",
+      "logo": {
+        "url": "https://www.catalysis-hub.org/static/logo.png"
+      }
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "http://api.catalysis-hub.org/graphql"
+      },
+      {
+        "description": "Docs",
+        "url": "http://docs.catalysis-hub.org/en/latest/tutorials/index.html#graphql"
+      },
+      {
+        "description": "Repo",
+        "url": "https://github.com/SUNCAT-Center/CatalysisHubBackend"
+      }
+    ]
+  },
+  {
     "url": "http://api.deutschebahn.com/1bahnql/",
     "info": {
       "title": "Deutsche Bahn",
