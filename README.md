@@ -22,6 +22,7 @@ If you are interested in GraphQL in general, check out [awesome-graphql](https:/
 | HIVDB | A curated database to represent, store and analyze HIV drug resistance data | [Try it!](https://hivdb.stanford.edu/page/graphiql/) | [Docs](https://hivdb.stanford.edu/page/webservice/)
 | Hollowverse | The religions and political views of the influentials. | [Try it!](https://api.hollowverse.com/playground) | [Docs](https://github.com/hollowverse/hollowverse/wiki/API-Development)<br>[Repo](https://github.com/hollowverse/api)
 | Idobata | Dedicated chat for team development. | [Try it!](https://idobata.io/api) | |
+| Pipefy | The operations excellence platform. | [Try it!](https://app.pipefy.com/graphiql) | [Docs](https://developers.pipefy.com) |
 | Memair | Quantified self / extended mind platform | [Try it!](https://memair.com/graphiql) | [Docs](https://docs.memair.com)
 | melodyRepo | Fast and reliable dependency manager for Go | [Try it!](https://melody.sh/play/) | [Docs](https://melody.sh/docs/api)
 | Microsoft Graph (DEMO) | Connect to the data that drives productivity – mail, calendar, contacts, documents, directory, devices, and more. | [Try it!](https://graphql-demo.azurewebsites.net/) | [Repo](https://github.com/microsoftgraph/graphql-demo)
