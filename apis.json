@@ -366,5 +366,22 @@
         "url": "https://developer.deutschebahn.com/free1bahnql/graphql"
       }
     ]
+  },
+  {
+    "url": "https://api.pipefy.com/graphql",
+    "info": {
+      "title": "Pipefy GraphQL API",
+      "description": "The operations excellence platform."
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://app.pipefy.com/graphiql"
+      },
+      {
+        "description": "Docs",
+        "url": "https://developers.pipefy.com"
+      }
+    ]
   }
 ]
