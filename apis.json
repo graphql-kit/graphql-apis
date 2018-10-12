@@ -338,6 +338,23 @@
     ]
   },
   {
+    "url": "https://countries.trevorblades.com",
+    "info": {
+      "title": "Countries",
+      "description": "Information about countries, continents, and languages"
+    },
+    "externalDocs": [
+      {
+        "description": "GraphQL Playground",
+        "url": "https://countries.trevorblades.com"
+      },
+      {
+        "description": "Repo",
+        "url": "https://github.com/trevorblades/countries"
+      }
+    ]
+  },
+  {
     "url": "http://api.deutschebahn.com/1bahnql/",
     "info": {
       "title": "Deutsche Bahn",
