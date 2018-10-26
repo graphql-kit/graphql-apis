@@ -30,6 +30,8 @@ If you are interested in GraphQL in general, check out [awesome-graphql](https:/
 | Shopify Storefront | The Storefront API gives you full creative control to build customized purchasing experiences for your customers. | [Try it!](https://help.shopify.com/api/storefront-api/graphql-explorer) | [Docs](https://help.shopify.com/api/storefront-api)<br>[Examples](https://github.com/Shopify/storefront-api-examples)
 | Universe |  Check what your friends are doing & find unique events near you using our filter. | [Try it!](https://developers.universe.com/page/graphql-explorer) | [Docs](https://developers.universe.com/docs/graphql)
 | Yelp  | User Reviews and Recommendations of Top Restaurants, Shopping, Nightlife, Entertainment, Services and More | [Try it!](https://www.yelp.com/developers/graphiql) | [Docs](https://www.yelp.com/developers/graphql/guides/intro)
+| TravelgateX | The global marketplace for the travel trade | [Try it!](https://api.travelgatex.com/) | [Docs](https://docs.travelgatex.com/getting-started/)
+
 
 ## Unofficial API proxies
 
