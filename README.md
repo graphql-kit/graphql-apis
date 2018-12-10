@@ -37,7 +37,7 @@ If you are interested in GraphQL in general, check out [awesome-graphql](https:/
 
 | API | Description | Graph*i*QL | Docs/Repo
 | --- | ----------- | :--------: | :-: |
-| Câmara dos deputados Brasil | "GraphQL api to grab the data from the brazilian deputies chamber" | | [Repo](https://github.com/matheusrocha89/graphql-camara-deputados)
+| Câmara dos deputados Brasil | "GraphQL api to grab the data from the brazilian deputies chamber" | [Try it!](https://floating-taiga-86602.herokuapp.com/) | [Repo](https://github.com/matheusrocha89/graphql-camara-deputados)
 | Contentful | "CMS as a Service". Graph*i*QL demo allows to query a simple blog, but the library itself generates a schema automatically for any content model you store in Contentful. | [Try it!](https://cf-graphql-demo.now.sh/) | [Repo](https://github.com/contentful-labs/cf-graphql)
 | Discord | Access the Discord API in GraphQL, powering WidgetBot widgets | [Try it!](https://widgetbot.io/api/graphql/) | [Repo](https://github.com/widgetbot-io)
 | Hacker News<br>Reddit<br>Twitter<br>Giphy | GraphQL Hub | [Try HN!](https://www.graphqlhub.com/playground/hn2)<br>[Try Reddit!](https://www.graphqlhub.com/playground/reddit)<br>[Try Twitter!](https://www.graphqlhub.com/playground/twitter)<br>[Try Giphy!](https://www.graphqlhub.com/playground/giphy) | [Docs](https://www.graphqlhub.com/)<br>[Repo](https://github.com/clayallsopp/graphqlhub)
