@@ -8,8 +8,10 @@ If you are interested in GraphQL in general, check out [awesome-graphql](https:/
 | API | Description | Graph*i*QL | Docs/Repo
 | --- | ----------- | :--------: | :-: |
 | Brandfolder | Digital asset management platform | [Try it!](https://graphql.brandfolder.com/) | [Repo](https://github.com/brandfolder/graphqlify)
+| Braintree | Payment platform | [Try it!](https://graphql.braintreepayments.com/explorer) | [Docs](https://graphql.braintreepayments.com/)
 | Buildkite | Continuous integration and deployments | [Try it!](https://graphql.buildkite.com/) | [Docs](https://building.buildkite.com/tutorial-getting-started-with-graphql-queries-and-mutations-11211dfe5d64#.7uhjusw1q)
 | Catalysis Hub | Chemical surface reaction energies and structures | [Try it!](http://api.catalysis-hub.org/graphql) | [Repo](https://github.com/SUNCAT-Center/CatalysisHubBackend)<br> [Docs](http://docs.catalysis-hub.org/en/latest/tutorials/index.html#graphql)
+| CommerceTools | e-commerce solutions | [Try it!](https://impex.commercetools.com/graphiql) | [Docs](https://docs.commercetools.com/graphql-api)
 | Countries | Information about countries, continents, and languages, based on [Countries List](https://annexare.github.io/Countries/) | [Try it!](https://countries.trevorblades.com) | [Repo](https://github.com/trevorblades/countries)
 | Deutsche Bahn | Infrastructure Data, like realtime facility status, stations, timetables and more | [Try it!](https://bahnql.herokuapp.com/graphql) | [Repo](https://github.com/dbsystel/1BahnQL)
 | Digitransit HSL | Transit routes and realtime schedules from Helsinki Regional Transport Authority, Finland | [Try it!](https://api.digitransit.fi/graphiql/finland) | [Docs](https://digitransit.fi/en/developers/apis/1-routing-api/1-graphiql/)
@@ -17,13 +19,17 @@ If you are interested in GraphQL in general, check out [awesome-graphql](https:/
 | EtMDB | Ethiopian Movie Database | [Try it!](https://etmdb.com/graphql?query=%7B%0A%20%20allCinemaDetails(before%3A%20%222017-10-04%22%2C%20after%3A%20%222010-01-01%22)%20%7B%0A%20%20%20%20edges%20%7B%0A%20%20%20%20%20%20node%20%7B%0A%20%20%20%20%20%20%20%20slug%0A%20%20%20%20%20%20%20%20hallName%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%0A) | [Docs](https://etmdb.com/api/docs/)
 | Gdom | DOM Traversing and Scraping using GraphQL | [Try it!](http://gdom.graphene-python.org/graphql?query=%7B%0A++page%28url%3A%22http%3A%2F%2Fnews.ycombinator.com%22%29+%7B%0A++++items%3A+query%28selector%3A%22tr.athing%22%29+%7B%0A++++++rank%3A+text%28selector%3A%22td+span.rank%22%29%0A++++++title%3A+text%28selector%3A%22td.title+a%22%29%0A++++++sitebit%3A+text%28selector%3A%22span.comhead+a%22%29%0A++++++url%3A+attr%28selector%3A%22td.title+a%22%2C+name%3A%22href%22%29%0A++++++attrs%3A+next+%7B%0A+++++++++score%3A+text%28selector%3A%22span.score%22%29%0A+++++++++user%3A+text%28selector%3A%22a%3Aeq%280%29%22%29%0A+++++++++comments%3A+text%28selector%3A%22a%3Aeq%282%29%22%29%0A++++++%7D%0A++++%7D%0A++%7D%0A%7D) | [Repo](https://github.com/syrusakbary/gdom)
 | GitHub | Web-based Git repository hosting service | [Try it!](https://developer.github.com/v4/explorer/) | [Docs](https://developer.github.com/v4/)
+| GitLab | Host-your-own Git repository hosting service | | [Docs](https://docs.gitlab.com/ee/api/graphql/)
 | GraphLoc  | Find a geolocation of an IP address including latitude, longitude, city, country, time zone and area code. Free to use, SSL supported | [Try it!](https://graphloc.com) | [Docs](https://www.graphloc.com)
 | GraphQL Community Graph | This is an Graph Database full of activity of the GraphQL community, including Twitter, StackOverflow, GitHub, Meetups, Slack. | [Try it!](https://graphql.communitygraph.org/graphiql/) | [Repo](https://github.com/neo4j-graphql/graphql-community)
 | GraphQL Europe | Europe's first GraphQL conference | [Try it!](https://api.graphql-europe.org/?query=%7B%0A%20%20conferences%20%7B%0A%20%20%20%20name%0A%20%20%20%20year%0A%20%20%7D%0A%7D) |
 | HIVDB | A curated database to represent, store and analyze HIV drug resistance data | [Try it!](https://hivdb.stanford.edu/page/graphiql/) | [Docs](https://hivdb.stanford.edu/page/webservice/)
 | Hollowverse | The religions and political views of the influentials. | [Try it!](https://api.hollowverse.com/playground) | [Docs](https://github.com/hollowverse/hollowverse/wiki/API-Development)<br>[Repo](https://github.com/hollowverse/api)
 | Idobata | Dedicated chat for team development. | [Try it!](https://idobata.io/api) | |
+| leanIX | Tools for business strategy | | [Docs](https://dev.leanix.net/docs/graphql-api)
+| Loggi | Courier service | | [Docs](https://api.loggi.com/introduction/quick-graphql-tips)
 | Pipefy | The operations excellence platform. | [Try it!](https://app.pipefy.com/graphiql) | [Docs](https://developers.pipefy.com) |
+| Mattermark | Business research and networking | | [Docs](https://mattermark.com/api/)
 | Memair | Quantified self / extended mind platform | [Try it!](https://memair.com/graphiql) | [Docs](https://docs.memair.com)
 | melodyRepo | Fast and reliable dependency manager for Go | [Try it!](https://melody.sh/play/) | [Docs](https://melody.sh/docs/api)
 | Microsoft Graph (DEMO) | Connect to the data that drives productivity – mail, calendar, contacts, documents, directory, devices, and more. | [Try it!](https://graphql-demo.azurewebsites.net/) | [Repo](https://github.com/microsoftgraph/graphql-demo)
