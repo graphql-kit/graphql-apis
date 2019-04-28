@@ -7,6 +7,7 @@ If you are interested in GraphQL in general, check out [awesome-graphql](https:/
 
 | API | Description | Graph*i*QL | Docs/Repo
 | --- | ----------- | :--------: | :-: |
+| Artsy | free online platform for collecting and discovering art | [Try it!](https://metaphysics-production.artsy.net/) | [Repo](https://github.com/artsy/metaphysics)
 | Brandfolder | Digital asset management platform | [Try it!](https://graphql.brandfolder.com/) | [Repo](https://github.com/brandfolder/graphqlify)
 | Braintree | Payment platform | [Try it!](https://graphql.braintreepayments.com/explorer) | [Docs](https://graphql.braintreepayments.com/)
 | Buildkite | Continuous integration and deployments | [Try it!](https://graphql.buildkite.com/) | [Docs](https://building.buildkite.com/tutorial-getting-started-with-graphql-queries-and-mutations-11211dfe5d64#.7uhjusw1q)
