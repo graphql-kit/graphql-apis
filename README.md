@@ -24,6 +24,7 @@ If you are interested in GraphQL in general, check out [awesome-graphql](https:/
 | GraphLoc  | Find a geolocation of an IP address including latitude, longitude, city, country, time zone and area code. Free to use, SSL supported | [Try it!](https://graphloc.com) | [Docs](https://www.graphloc.com)
 | GraphQL Community Graph | This is an Graph Database full of activity of the GraphQL community, including Twitter, StackOverflow, GitHub, Meetups, Slack. | [Try it!](https://graphql.communitygraph.org/graphiql/) | [Repo](https://github.com/neo4j-graphql/graphql-community)
 | GraphQL Europe | Europe's first GraphQL conference | [Try it!](https://api.graphql-europe.org/?query=%7B%0A%20%20conferences%20%7B%0A%20%20%20%20name%0A%20%20%20%20year%0A%20%20%7D%0A%7D) |
+| GraphQL Jobs | GraphQL jobs in modern startups | [Try it!](https://api.graphql.jobs) | [Docs](https://graphql.jobs/docs/api)|
 | HIVDB | A curated database to represent, store and analyze HIV drug resistance data | [Try it!](https://hivdb.stanford.edu/page/graphiql/) | [Docs](https://hivdb.stanford.edu/page/webservice/)
 | Hollowverse | The religions and political views of the influentials. | [Try it!](https://api.hollowverse.com/playground) | [Docs](https://github.com/hollowverse/hollowverse/wiki/API-Development)<br>[Repo](https://github.com/hollowverse/api)
 | Idobata | Dedicated chat for team development. | [Try it!](https://idobata.io/api) | |
