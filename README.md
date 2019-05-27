@@ -8,7 +8,6 @@ If you are interested in GraphQL in general, check out [awesome-graphql](https:/
 | API | Description | Graph*i*QL | Docs/Repo
 | --- | ----------- | :--------: | :-: |
 | Artsy | free online platform for collecting and discovering art | [Try it!](https://metaphysics-production.artsy.net/) | [Repo](https://github.com/artsy/metaphysics)
-| Brandfolder | Digital asset management platform | [Try it!](https://graphql.brandfolder.com/) | [Repo](https://github.com/brandfolder/graphqlify)
 | Braintree | Payment platform | [Try it!](https://graphql.braintreepayments.com/explorer) | [Docs](https://graphql.braintreepayments.com/)
 | Buildkite | Continuous integration and deployments | [Try it!](https://graphql.buildkite.com/) | [Docs](https://building.buildkite.com/tutorial-getting-started-with-graphql-queries-and-mutations-11211dfe5d64#.7uhjusw1q)
 | Catalysis Hub | Chemical surface reaction energies and structures | [Try it!](http://api.catalysis-hub.org/graphql) | [Repo](https://github.com/SUNCAT-Center/CatalysisHubBackend)<br> [Docs](http://docs.catalysis-hub.org/en/latest/tutorials/index.html#graphql)
@@ -23,21 +22,17 @@ If you are interested in GraphQL in general, check out [awesome-graphql](https:/
 | GitHub | Web-based Git repository hosting service | [Try it!](https://developer.github.com/v4/explorer/) | [Docs](https://developer.github.com/v4/)
 | GitLab | Host-your-own Git repository hosting service | [Try it!](https://gitlab.com/-/graphql-explorer) | [Docs](https://docs.gitlab.com/ee/api/graphql/)
 | GraphLoc  | Find a geolocation of an IP address including latitude, longitude, city, country, time zone and area code. Free to use, SSL supported | [Try it!](https://graphloc.com) | [Docs](https://www.graphloc.com)
-| GraphQL Community Graph | This is an Graph Database full of activity of the GraphQL community, including Twitter, StackOverflow, GitHub, Meetups, Slack. | [Try it!](https://graphql.communitygraph.org/graphiql/) | [Repo](https://github.com/neo4j-graphql/graphql-community)
-| GraphQL Europe | Europe's first GraphQL conference | [Try it!](https://api.graphql-europe.org/?query=%7B%0A%20%20conferences%20%7B%0A%20%20%20%20name%0A%20%20%20%20year%0A%20%20%7D%0A%7D) |
 | GraphQL Jobs | GraphQL jobs in modern startups | [Try it!](https://api.graphql.jobs) | [Docs](https://graphql.jobs/docs/api)|
 | HIVDB | A curated database to represent, store and analyze HIV drug resistance data | [Try it!](https://hivdb.stanford.edu/page/graphiql/) | [Docs](https://hivdb.stanford.edu/page/webservice/)
-| Hollowverse | The religions and political views of the influentials. | [Try it!](https://api.hollowverse.com/playground) | [Docs](https://github.com/hollowverse/hollowverse/wiki/API-Development)<br>[Repo](https://github.com/hollowverse/api)
 | Idobata | Dedicated chat for team development. | [Try it!](https://idobata.io/api) | |
 | leanIX | Tools for business strategy | | [Docs](https://dev.leanix.net/docs/graphql-api)
-| Loggi | Courier service | | [Docs](https://api.loggi.com/introduction/quick-graphql-tips)
 | Pipefy | The operations excellence platform. | [Try it!](https://app.pipefy.com/graphiql) | [Docs](https://developers.pipefy.com) |
-| Mattermark | Business research and networking | | [Docs](https://mattermark.com/api/)
+| Mattermark | Business research and networking | | [Docs](https://developer.mattermark.com/docs/graphql)
 | Memair | Quantified self / extended mind platform | [Try it!](https://memair.com/graphiql) | [Docs](https://docs.memair.com)
 | melodyRepo | Fast and reliable dependency manager for Go | [Try it!](https://melody.sh/play/) | [Docs](https://melody.sh/docs/api)
 | Microsoft Graph (DEMO) | Connect to the data that drives productivity – mail, calendar, contacts, documents, directory, devices, and more. | [Try it!](https://graphql-demo.azurewebsites.net/) | [Repo](https://github.com/microsoftgraph/graphql-demo)
 | Shopify Storefront | The Storefront API gives you full creative control to build customized purchasing experiences for your customers. | [Try it!](https://help.shopify.com/api/storefront-api/graphql-explorer) | [Docs](https://help.shopify.com/api/storefront-api)<br>[Examples](https://github.com/Shopify/storefront-api-examples)
-| Universe |  Check what your friends are doing & find unique events near you using our filter. | [Try it!](https://developers.universe.com/page/graphql-explorer) | [Docs](https://developers.universe.com/docs/graphql)
+| Universe |  Check what your friends are doing & find unique events near you using our filter. | [Try it!](https://www.universe.com/graphiql) | [Docs](https://developers.universe.com/docs/graphql)
 | Yelp  | User Reviews and Recommendations of Top Restaurants, Shopping, Nightlife, Entertainment, Services and More | [Try it!](https://www.yelp.com/developers/graphiql) | [Docs](https://www.yelp.com/developers/graphql/guides/intro)
 | TravelgateX | The global marketplace for the travel trade | [Try it!](https://api.travelgatex.com/) | [Docs](https://docs.travelgatex.com/getting-started/)
 
