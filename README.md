@@ -58,3 +58,4 @@ If you are interested in GraphQL in general, check out [awesome-graphql](https:/
 | Spotify GraphQL Server | This demonstrates how to build a GraphQL server which fetches data from an external API (Spotify) | [Try it!](https://spotify-graphql-server.herokuapp.com/) | [Repo](https://github.com/lowsky/spotify-graphql-server)
 | Three.js demo | Declare a Three.js program with GraphQL | [Try it!](https://jwerle.github.io/three.graphql/) | [Repo](https://github.com/jwerle/three.graphql)
 | UFC GraphQL Server | Public UFC API turned into a GraphQL server. It's hosted by [now.sh](https://now.sh/) then, sometimes, it gets freeze. | [Try it!](https://graphql-ufc-api.now.sh/) | [Repo](https://github.com/jgcmarins/graphql-ufc-api)
+| Google directions API | GraphQL wrapper for google directions API. | [Try it!](https://directions-graphql.herokuapp.com/graphql) | [Repo](https://github.com/Arjun-sna/directions_graphql/)
