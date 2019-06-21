@@ -47,6 +47,7 @@ If you are interested in GraphQL in general, check out [awesome-graphql](https:/
 | PokeAPI | Pokémon Data API | [Try it!](https://pokeapi-graphiql.herokuapp.com/) | [Repo](https://github.com/patrickshaughnessy/PokeAPI-GraphQL)
 | Spotify | Spotify gives you instant access to millions of songs - from old favorites to the latest hits. | [Try it!](https://spotify-api-graphql-console.herokuapp.com/) | [Repo](https://github.com/thefrenchhouse/spotify-graphql)<br>[Examples](https://github.com/thefrenchhouse/spotify-graphql-examples)
 | SWAPI | Star Wars API | [Try it!](https://graphql.org/swapi-graphql/) | [Repo](https://github.com/graphql/swapi-graphql)
+| AniList | Anime and manga datum, including character, staff, and live airing data. | [Try it!](https://anilist.co/graphiql) | [Repo](https://github.com/AniList/ApiV2-GraphQL-Docs)
 
 ## Demonstration-only APIs
 
