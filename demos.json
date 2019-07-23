@@ -131,5 +131,22 @@
         "url": "https://github.com/jwerle/three.graphql"
       }
     ]
+  },
+  {
+    "url": "https://directions-graphql.herokuapp.com/graphql",
+    "info": {
+      "title": "Google directions API",
+      "description": "GraphQL wrapper for google directions API"
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://directions-graphql.herokuapp.com/graphql"
+      },
+      {
+        "description": "Repo",
+        "url": "https://github.com/Arjun-sna/directions_graphql/"
+      }
+    ]
   }
 ]
