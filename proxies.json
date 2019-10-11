@@ -64,6 +64,26 @@
     ]
   },
   {
+    "url": "https://spacex.land/",
+    "info": {
+      "title": "Spacex.Land",
+      "description": "A non official platform for SpaceX's data!",
+      "logo": {
+        "url": "https://spacex.land/assets/logo.png"
+      }
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://api.spacex.land/graphql/"
+      },
+      {
+        "description": "Docs",
+        "url": "https://spacex.land/"
+      } 
+    ]
+},
+{
     "url": "http://graphql-swapi.parseapp.com/",
     "info": {
       "title": "Spotify",
