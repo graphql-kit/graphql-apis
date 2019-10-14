@@ -62,3 +62,4 @@ If you are interested in GraphQL in general, check out [awesome-graphql](https:/
 | UFC GraphQL Server | Public UFC API turned into a GraphQL server. It's hosted by [now.sh](https://now.sh/) then, sometimes, it gets freeze. | [Try it!](https://graphql-ufc-api.now.sh/) | [Repo](https://github.com/jgcmarins/graphql-ufc-api)
 | Google directions API | GraphQL wrapper for google directions API. | [Try it!](https://directions-graphql.herokuapp.com/graphql) | [Repo](https://github.com/Arjun-sna/directions_graphql/)
 | FakeQL | GraphQL API mocking as a service. | [Try it!](https://fakeql.com/) | [Docs](https://www.blowson.com/docs/)
+| The Rick and Morty API | All the Rick and Morty information. | [Try it!](https://rickandmortyapi.com/graphql) | [Docs](https://rickandmortyapi.com/documentation/#graphql)
