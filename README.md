@@ -34,6 +34,7 @@ If you are interested in GraphQL in general, check out [awesome-graphql](https:/
 | melodyRepo | Fast and reliable dependency manager for Go | [Try it!](https://melody.sh/play/) | [Docs](https://melody.sh/docs/api)
 | Microsoft Graph (DEMO) | Connect to the data that drives productivity – mail, calendar, contacts, documents, directory, devices, and more. | [Try it!](https://graphql-demo.azurewebsites.net/) | [Repo](https://github.com/microsoftgraph/graphql-demo)
 | Shopify Storefront | The Storefront API gives you full creative control to build customized purchasing experiences for your customers. | [Try it!](https://help.shopify.com/api/storefront-graphiql) | [Docs](https://help.shopify.com/api/storefront-api)<br>[Examples](https://github.com/Shopify/storefront-api-examples)
+| Planets | Information about planets and exoplanets  | [Try it!](https://pristine-gadget-267405.appspot.com/graphql/) | [Repo](https://github.com/ZaneTurner/PlanetsAPI)
 | Universe |  Check what your friends are doing & find unique events near you using our filter. | [Try it!](https://www.universe.com/graphiql) | [Docs](https://developers.universe.com/docs/graphql)
 | Yelp  | User Reviews and Recommendations of Top Restaurants, Shopping, Nightlife, Entertainment, Services and More | [Try it!](https://www.yelp.com/developers/graphiql) | [Docs](https://www.yelp.com/developers/graphql/guides/intro)
 | TravelgateX | The global marketplace for the travel trade | [Try it!](https://api.travelgatex.com/) | [Docs](https://docs.travelgatex.com/getting-started/)
