@@ -51,6 +51,7 @@ If you are interested in GraphQL in general, check out [awesome-graphql](https:/
 | Spacex Land | A non official platform for SpaceX's data! | [Try it!](https://api.spacex.land/graphql/) | [Docs](https://spacex.land/)
 | Spotify | Spotify gives you instant access to millions of songs - from old favorites to the latest hits. | [Try it!](https://spotify-api-graphql-console.herokuapp.com/) | [Repo](https://github.com/thefrenchhouse/spotify-graphql)<br>[Examples](https://github.com/thefrenchhouse/spotify-graphql-examples)
 | SWAPI | Star Wars API | [Try it!](https://graphql.org/swapi-graphql/) | [Repo](https://github.com/graphql/swapi-graphql)
+| TMDB | The Movie Database Wrapper | [Try it!](https://tmdb-graph.herokuapp.com) | [Repo](https://github.com/nerdsupremacist/tmdb)
 
 
 ## Demonstration-only APIs
