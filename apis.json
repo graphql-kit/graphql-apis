@@ -234,6 +234,23 @@
     ]
   },
   {
+    "url": "https://api.react-finland.fi/graphql",
+    "info": {
+      "title": "React Finland",
+      "description": "React Finland API is built with conferences and meetups in mind"
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://api.react-finland.fi/graphql"
+      },
+      {
+        "description": "Repo",
+        "url": "https://github.com/ReactFinland/graphql-api"
+      }
+    ]
+  },
+  {
     "url": "http://graphql-demo.azurewebsites.net/",
     "info": {
       "title": "Microsoft Graph (DEMO)",
