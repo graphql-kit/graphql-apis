@@ -434,5 +434,35 @@
         "url": "https://www.everbase.co/docs"
       }
     ]
+  },
+  {
+    "url": "https://swop.cx/",
+    "security": [
+      {
+        "title": "API Key",
+        "description": "",
+        "type": "apiKey",
+        "prefix": "ApiKey ",
+        "name": "Authorization",
+        "in": "header"
+      }
+    ],
+    "info": {
+      "title": "SWOP",
+      "description": "GraphQL and REST foreign exchange rate API",
+      "logo": {
+        "url": "https://swop.cx/assets/images/logos/swop-logo-dollar-dark.svg"
+      }
+    },
+    "externalDocs": [
+      {
+        "description": "GraphQL Playground",
+        "url": "https://swop.cx/account/dashboard/playground"
+      },
+      {
+        "description": "Docs",
+        "url": "https://swop.cx/documentation"
+      }
+    ]
   }
 ]
