@@ -464,5 +464,26 @@
         "url": "https://swop.cx/documentation"
       }
     ]
+  },
+  {
+    "url": "https://graphql.bitquery.io",
+    "info": {
+      "title": "Bitquery",
+      "description": "Blockchain On-chain Analytical API",
+      "logo": {
+        "url": "https://bitquery.io/wp-content/uploads/thegem-logos/logo_cbdd6c348bcf0f1e96dc8b4a8c401574_1x.png",
+        "backgroundColor": "#12263f"
+      }
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://graphql.bitquery.io/"
+      },
+      {
+        "description": "Docs",
+        "url": "https://bitquery.io/blog/working-with-blockchain-data"
+      }
+    ]
   }
 ]
