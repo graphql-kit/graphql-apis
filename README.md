@@ -9,6 +9,7 @@ If you are interested in GraphQL in general, check out [awesome-graphql](https:/
 | --- | ----------- | :--------: | :-: |
 | AniList | Anime and manga datum, including character, staff, and live airing data. | [Try it!](https://anilist.co/graphiql) | [Docs](https://anilist.gitbook.io/anilist-apiv2-docs/)
 | Artsy | free online platform for collecting and discovering art | [Try it!](https://metaphysics-production.artsy.net/) | [Repo](https://github.com/artsy/metaphysics)
+| Bitquery | on-chain blockchain analytics | [Try it!](https://graphql.bitquery.io) | [Docs](https://bitquery.io/blog/working-with-blockchain-data)
 | Braintree | Payment platform | [Try it!](https://graphql.braintreepayments.com/explorer) | [Docs](https://graphql.braintreepayments.com/)
 | Buildkite | Continuous integration and deployments | [Try it!](https://graphql.buildkite.com/) | [Docs](https://building.buildkite.com/tutorial-getting-started-with-graphql-queries-and-mutations-11211dfe5d64#.7uhjusw1q)
 | Catalysis Hub | Chemical surface reaction energies and structures | [Try it!](http://api.catalysis-hub.org/graphql) | [Repo](https://github.com/SUNCAT-Center/CatalysisHubBackend)<br> [Docs](http://docs.catalysis-hub.org/en/latest/tutorials/index.html#graphql)
