@@ -149,7 +149,7 @@
       },
       {
         "description": "Docs",
-        "url": "https://developer.github.com/v4/"
+        "url": "https://docs.github.com/v4/"
       }
     ]
   },
@@ -230,6 +230,23 @@
       {
         "description": "Docs",
         "url": "https://melody.sh/docs/api"
+      }
+    ]
+  },
+  {
+    "url": "https://api.react-finland.fi/graphql",
+    "info": {
+      "title": "React Finland",
+      "description": "React Finland API is built with conferences and meetups in mind"
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://api.react-finland.fi/graphql"
+      },
+      {
+        "description": "Repo",
+        "url": "https://github.com/ReactFinland/graphql-api"
       }
     ]
   },
@@ -398,6 +415,74 @@
       {
         "description": "Docs",
         "url": "https://developers.pipefy.com"
+      }
+    ]
+  },
+  {
+    "url": "https://api.everbase.co/graphql",
+    "info": {
+      "title": "Everbase",
+      "description": "Countries, cities, exchange rates, geolocation and a lot more."
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://www.everbase.co/editor"
+      },
+      {
+        "description": "Docs",
+        "url": "https://www.everbase.co/docs"
+      }
+    ]
+  },
+  {
+    "url": "https://swop.cx/",
+    "security": [
+      {
+        "title": "API Key",
+        "description": "",
+        "type": "apiKey",
+        "prefix": "ApiKey ",
+        "name": "Authorization",
+        "in": "header"
+      }
+    ],
+    "info": {
+      "title": "SWOP",
+      "description": "GraphQL and REST foreign exchange rate API",
+      "logo": {
+        "url": "https://swop.cx/assets/images/logos/swop-logo-dollar-dark.svg"
+      }
+    },
+    "externalDocs": [
+      {
+        "description": "GraphQL Playground",
+        "url": "https://swop.cx/account/dashboard/playground"
+      },
+      {
+        "description": "Docs",
+        "url": "https://swop.cx/documentation"
+      }
+    ]
+  },
+  {
+    "url": "https://graphql.bitquery.io",
+    "info": {
+      "title": "Bitquery",
+      "description": "Blockchain On-chain Analytical API",
+      "logo": {
+        "url": "https://bitquery.io/wp-content/uploads/thegem-logos/logo_cbdd6c348bcf0f1e96dc8b4a8c401574_1x.png",
+        "backgroundColor": "#12263f"
+      }
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://graphql.bitquery.io/"
+      },
+      {
+        "description": "Docs",
+        "url": "https://bitquery.io/blog/working-with-blockchain-data"
       }
     ]
   }

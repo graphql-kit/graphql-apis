@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://www.graphqlhub.com/graphql",
-    "info": {
-      "title": "GraphiQL Hub",
-      "description": "GraphQL Hub",
-      "logo": {
-        "url": "https://www.graphqlhub.com/images/graphqlhub-logo.png"
-      }
-    },
-    "externalDocs": [
-      {
-        "description": "GraphiQL",
-        "url": "https://www.graphqlhub.com/playground"
-      },
-      {
-        "description": "Docs",
-        "url": "https://www.graphqlhub.com/"
-      },
-      {
-        "description": "Repo",
-        "url": "https://github.com/clayallsopp/graphqlhub"
-      }
-    ]
-  },
-  {
     "url": "https://pokeapi-graphiql.herokuapp.com/",
     "info": {
       "title": "PokeAPI",
@@ -64,6 +40,26 @@
     ]
   },
   {
+    "url": "https://spacex.land/",
+    "info": {
+      "title": "Spacex.Land",
+      "description": "A non official platform for SpaceX's data!",
+      "logo": {
+        "url": "https://spacex.land/assets/logo.png"
+      }
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://api.spacex.land/graphql/"
+      },
+      {
+        "description": "Docs",
+        "url": "https://spacex.land/"
+      } 
+    ]
+},
+{
     "url": "http://graphql-swapi.parseapp.com/",
     "info": {
       "title": "Spotify",
