@@ -48,6 +48,7 @@ If you are interested in GraphQL in general, check out [awesome-graphql](https:/
 
 | API | Description | Graph*i*QL | Docs/Repo
 | --- | ----------- | :--------: | :-: |
+| Barcelona Urban Mobility API | Information about the different public transport / urban mobility services of Barcelona | [Try it!](https://barcelona-urban-mobility-graphql-api.netlify.app/graphql) | [Repo](https://github.com/aalises/barcelona-urban-mobility-graphql-api)
 | Câmara dos deputados Brasil | "GraphQL api to grab the data from the brazilian deputies chamber" | [Try it!](https://graphql-camara-deputados.herokuapp.com/) | [Repo](https://github.com/matheusrocha89/graphql-camara-deputados)
 | Ghibliql | "GhibliQL is a GraphQL wrapper to the Studio Ghibli REST API" | [Try it!](https://ghibliql.herokuapp.com/) | [Repo](https://github.com/kisscool-fr/ghibliql)
 | MetaMate | Semantic service bus example for HackerNews | [Try it!](https://metamate.io/blog/most-advanced-hackernews-api/) | [Repo](https://github.com/metamatex/metamate)<br>[Examples](https://showcase.metamate.io/hackernews-user-activity)
