@@ -42,7 +42,7 @@ If you are interested in GraphQL in general, check out [awesome-graphql](https:/
 | Universe |  Check what your friends are doing & find unique events near you using our filter. | [Try it!](https://www.universe.com/graphiql) | [Docs](https://developers.universe.com/docs/graphql)
 | Yelp  | User Reviews and Recommendations of Top Restaurants, Shopping, Nightlife, Entertainment, Services and More | [Try it!](https://www.yelp.com/developers/graphiql) | [Docs](https://www.yelp.com/developers/graphql/guides/intro)
 | TravelgateX | The global marketplace for the travel trade | [Try it!](https://api.travelgatex.com/) | [Docs](https://docs.travelgatex.com/getting-started/)
-
+| Stargate | Open source data gateway that sits between your app and your databases | [Try it!](https://stargate.io/docs/stargate/1.0/quickstart/quick_start-graphql.html) | [Docs](https://stargate.io/docs/stargate/1.0/developers-guide/graphql.html)
 
 ## Unofficial API proxies
 
