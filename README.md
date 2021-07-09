@@ -1,7 +1,7 @@
 # Public GraphQL APIs
 
 *A collective list of public [GraphQL](https://graphql.org/) APIs. PRs are welcome :smile:*
-If you are interested in GraphQL in general, check out [awesome-graphql](https://github.com/chentsulin/awesome-graphql).
+If you are interested in GraphQL in general, check out [awesome-graphql](https://github.com/chentsulin/awesome-graphql) and [GraphQL Toolbox](https://www.graphqltoolbox.com/).
 
 ## Official APIs
 
