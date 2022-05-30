@@ -449,23 +449,6 @@
     ]
   },
   {
-    "url": "https://api.everbase.co/graphql",
-    "info": {
-      "title": "Everbase",
-      "description": "Countries, cities, exchange rates, geolocation and a lot more."
-    },
-    "externalDocs": [
-      {
-        "description": "GraphiQL",
-        "url": "https://www.everbase.co/editor"
-      },
-      {
-        "description": "Docs",
-        "url": "https://www.everbase.co/docs"
-      }
-    ]
-  },
-  {
     "url": "https://swop.cx/",
     "security": [
       {
