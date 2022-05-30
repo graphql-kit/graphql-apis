@@ -51,6 +51,36 @@
     ]
   },
   {
+    "url": "https://api.ean-search.org/graphql",
+    "info": {
+      "title": "EAN-Search.org",
+      "description": "Search EAN, GTIN, UPC barcodes and products",
+      "logo": {
+        "url": "https://www.ean-search.org/ean-logo.png"
+      }
+    },
+    "security": [
+      {
+        "title": "API Key",
+        "description": "",
+        "type": "apiKey",
+        "prefix": "Bearer ",
+        "name": "Authorization",
+        "in": "header"
+      }
+    ],
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://api.ean-search.org/graphql"
+      },
+      {
+        "description": "Docs",
+        "url": "https://www.ean-search.org/blog/graphql-ean-api.html"
+      }
+    ]
+  },
+  {
     "url": "https://portal.ehri-project.eu/api/graphql",
     "info": {
       "title": "EHRI",
@@ -415,23 +445,6 @@
       {
         "description": "Docs",
         "url": "https://developers.pipefy.com"
-      }
-    ]
-  },
-  {
-    "url": "https://api.everbase.co/graphql",
-    "info": {
-      "title": "Everbase",
-      "description": "Countries, cities, exchange rates, geolocation and a lot more."
-    },
-    "externalDocs": [
-      {
-        "description": "GraphiQL",
-        "url": "https://www.everbase.co/editor"
-      },
-      {
-        "description": "Docs",
-        "url": "https://www.everbase.co/docs"
       }
     ]
   },
