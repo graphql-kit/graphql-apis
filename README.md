@@ -37,6 +37,7 @@ If you are interested in GraphQL in general, check out [awesome-graphql](https:/
 | Memair | Quantified self / extended mind platform | [Try it!](https://memair.com/graphiql) | [Docs](https://docs.memair.com)
 | melodyRepo | Fast and reliable dependency manager for Go | [Try it!](https://melody.sh/play/) | [Docs](https://melody.sh/docs/api)
 | React Finland | React Finland API is built with conferences and meetups in mind | [Try it!](https://api.react-finland.fi/graphql) | [Repo](https://github.com/ReactFinland/graphql-api)
+| Saleor | Headless open-source E-commerce API for storefront and admin | [Try it!](https://demo.saleor.io/graphql/) | [Docs](https://docs.saleor.io/docs/3.x/developer/api-reference/)
 | Shopify Storefront | The Storefront API gives you full creative control to build customized purchasing experiences for your customers. | [Try it!](https://help.shopify.com/api/storefront-graphiql) | [Docs](https://help.shopify.com/api/storefront-api)<br>[Examples](https://github.com/Shopify/storefront-api-examples)
 | Shopify Admin | The Admin API is the primary way that apps and services interact with Shopify. | [Try it!](https://shopify-graphiql-app.shopifycloud.com/login) | [Docs](https://shopify.dev/docs/admin-api/graphql/reference)
 | SWOP | GraphQL and REST foreign exchange rate API. Note: Required registration. | [Try it!](https://swop.cx/) | [Docs](https://swop.cx/documentation)
