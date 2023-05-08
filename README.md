@@ -41,6 +41,7 @@ If you are interested in GraphQL in general, check out [awesome-graphql](https:/
 | Saleor | Headless open-source E-commerce API for storefront and admin | [Try it!](https://demo.saleor.io/graphql/) | [Docs](https://docs.saleor.io/docs/3.x/developer/api-reference/)
 | Shopify Storefront | The Storefront API gives you full creative control to build customized purchasing experiences for your customers. | [Try it!](https://help.shopify.com/api/storefront-graphiql) | [Docs](https://help.shopify.com/api/storefront-api)<br>[Examples](https://github.com/Shopify/storefront-api-examples)
 | Shopify Admin | The Admin API is the primary way that apps and services interact with Shopify. | [Try it!](https://shopify-graphiql-app.shopifycloud.com/login) | [Docs](https://shopify.dev/docs/admin-api/graphql/reference)
+| Stellate | Query data about Stellate organizations and services, including service metrics. | [Try it!](https://graph.stellate.co) |
 | SWOP | GraphQL and REST foreign exchange rate API. Note: Required registration. | [Try it!](https://swop.cx/) | [Docs](https://swop.cx/documentation)
 | Universe |  Check what your friends are doing & find unique events near you using our filter. | [Try it!](https://www.universe.com/graphiql) | [Docs](https://developers.universe.com/docs/graphql)
 | Yelp  | User Reviews and Recommendations of Top Restaurants, Shopping, Nightlife, Entertainment, Services and More | [Try it!](https://www.yelp.com/developers/graphiql) | [Docs](https://www.yelp.com/developers/graphql/guides/intro)
