@@ -8,7 +8,7 @@ If you are interested in GraphQL in general, check out [awesome-graphql](https:/
 | API | Description | Graph*i*QL | Docs/Repo
 | --- | ----------- | :--------: | :-: |
 | AniList | Anime and manga datum, including character, staff, and live airing data. | [Try it!](https://anilist.co/graphiql) | [Docs](https://anilist.gitbook.io/anilist-apiv2-docs/)
-| Artsy | free online platform for collecting and discovering art | [Try it!](https://metaphysics-production.artsy.net/) | [Repo](https://github.com/artsy/metaphysics)
+| Artsy | free online platform for collecting and discovering art | [Try it!]([https://metaphysics-production.artsy.net/](https://github.com/artsy/metaphysics/tree/2eab34884eed9204acfd3f3507e1f91eaae5d424?tab=readme-ov-file#setting-up-your-local-graphiql)) | [Repo](https://github.com/artsy/metaphysics)
 | Bitquery | on-chain blockchain analytics | [Try it!](https://graphql.bitquery.io) | [Docs](https://bitquery.io/blog/working-with-blockchain-data)
 | Braintree | Payment platform | [Try it!](https://graphql.braintreepayments.com/explorer) | [Docs](https://graphql.braintreepayments.com/)
 | Buildkite | Continuous integration and deployments | [Try it!](https://graphql.buildkite.com/) | [Docs](https://building.buildkite.com/tutorial-getting-started-with-graphql-queries-and-mutations-11211dfe5d64#.7uhjusw1q)
