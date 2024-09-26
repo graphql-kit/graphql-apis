@@ -37,6 +37,7 @@ If you are interested in GraphQL in general, check out [awesome-graphql](https:/
 | Mattermark | Business research and networking | | [Docs](https://developer.mattermark.com/docs/graphql)
 | Memair | Quantified self / extended mind platform | [Try it!](https://memair.com/graphiql) | [Docs](https://docs.memair.com)
 | melodyRepo | Fast and reliable dependency manager for Go | [Try it!](https://melody.sh/play/) | [Docs](https://melody.sh/docs/api)
+| monday.com | Connect to your monday data with the platform API. An expressive API to interact with your workflows, automate processes, power integrations, and more. | [Try it!](https://monday.com/developers/v2/try-it-yourself?ref=graphqlkit) | [Docs](https://developer.monday.com/api-reference?ref=graphqlkit)
 | React Finland | React Finland API is built with conferences and meetups in mind | [Try it!](https://api.react-finland.fi/graphql) | [Repo](https://github.com/ReactFinland/graphql-api)
 | Saleor | Headless open-source E-commerce API for storefront and admin | [Try it!](https://demo.saleor.io/graphql/) | [Docs](https://docs.saleor.io/docs/3.x/developer/api-reference/)
 | Shopify Storefront | The Storefront API gives you full creative control to build customized purchasing experiences for your customers. | [Try it!](https://help.shopify.com/api/storefront-graphiql) | [Docs](https://help.shopify.com/api/storefront-api)<br>[Examples](https://github.com/Shopify/storefront-api-examples)
