@@ -43,6 +43,7 @@ If you are interested in GraphQL in general, check out [awesome-graphql](https:/
 | Shopify Admin | The Admin API is the primary way that apps and services interact with Shopify. | [Try it!](https://shopify-graphiql-app.shopifycloud.com/login) | [Docs](https://shopify.dev/docs/admin-api/graphql/reference)
 | SWOP | GraphQL and REST foreign exchange rate API. Note: Required registration. | [Try it!](https://swop.cx/) | [Docs](https://swop.cx/documentation)
 | Universe |  Check what your friends are doing & find unique events near you using our filter. | [Try it!](https://www.universe.com/graphiql) | [Docs](https://developers.universe.com/docs/graphql)
+| Vedika | Vedic astrology API with birth charts, horoscopes, kundali matching, and AI-powered chatbot | [Try it!](https://vedika-api-854222120654.us-central1.run.app/graphql) | [Docs](https://vedika.io/docs)
 | Yelp  | User Reviews and Recommendations of Top Restaurants, Shopping, Nightlife, Entertainment, Services and More | [Try it!](https://docs.developer.yelp.com/graphql) | [Docs](https://docs.developer.yelp.com/docs/graphql-intro)
 | TravelgateX | The global marketplace for the travel trade | [Try it!](https://api.travelgatex.com/) | [Docs](https://docs.travelgatex.com/getting-started/)
 | TCGdex | A Multilanguage Pokémon TCG Database with Cards Pictures and most of the informations contained on the cards. | [Try it!](https://api.tcgdex.net/v2/graphql) | [Repo](https://github.com/tcgdex/cards-database)
