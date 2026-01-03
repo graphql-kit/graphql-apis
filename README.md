@@ -46,6 +46,7 @@ If you are interested in GraphQL in general, check out [awesome-graphql](https:/
 | Yelp  | User Reviews and Recommendations of Top Restaurants, Shopping, Nightlife, Entertainment, Services and More | [Try it!](https://docs.developer.yelp.com/graphql) | [Docs](https://docs.developer.yelp.com/docs/graphql-intro)
 | TravelgateX | The global marketplace for the travel trade | [Try it!](https://api.travelgatex.com/) | [Docs](https://docs.travelgatex.com/getting-started/)
 | TCGdex | A Multilanguage Pokémon TCG Database with Cards Pictures and most of the informations contained on the cards. | [Try it!](https://api.tcgdex.net/v2/graphql) | [Repo](https://github.com/tcgdex/cards-database)
+| Vedika | Vedic astrology API with AI chatbot, birth charts, and 108+ endpoints in 22 languages | | [Docs](https://vedika.io/docs.html)
 
 ## Unofficial API proxies
 
