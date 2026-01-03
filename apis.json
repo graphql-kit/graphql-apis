@@ -402,6 +402,43 @@
     ]
   },
   {
+    "url": "https://vedika-api-854222120654.us-central1.run.app/graphql",
+    "headers": {
+      "x-api-key": "YOUR_API_KEY"
+    },
+    "security": [
+      {
+        "title": "API Key",
+        "description": "Get your API key at https://vedika.io",
+        "type": "apiKey",
+        "name": "x-api-key",
+        "in": "header"
+      }
+    ],
+    "info": {
+      "title": "Vedika",
+      "description": "AI-powered Vedic astrology API for gaming and entertainment apps. Provides horoscopes, birth charts, kundali matching, numerology, and AI chatbot features.",
+      "logo": {
+        "url": "https://vedika.io/images/vedika-logo.png",
+        "backgroundColor": "#6366f1"
+      }
+    },
+    "externalDocs": [
+      {
+        "description": "GraphiQL",
+        "url": "https://vedika.io/api-explorer.html"
+      },
+      {
+        "description": "Docs",
+        "url": "https://vedika.io/api-reference.html"
+      },
+      {
+        "description": "Website",
+        "url": "https://vedika.io"
+      }
+    ]
+  },
+  {
     "url": "http://api.deutschebahn.com/1bahnql/",
     "info": {
       "title": "Deutsche Bahn",
